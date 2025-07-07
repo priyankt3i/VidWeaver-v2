@@ -1,0 +1,5 @@
+{
+  "name": "🎬 VidWeaver - Revised",
+  "description": "An application to transform documents into a fully produced, engaging YouTube video. It guides users through a three-step process: uploading content, generating and refining an AI-written script, and generating a video with AI-selected visuals.",
+  "requestFramePermissions": []
+}
